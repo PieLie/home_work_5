@@ -39,8 +39,7 @@ header {
 	padding: 0 14px;
 	font-size: 14px;
 }
-.main-nav__item a:hover,
-.main-nav__item a.active {
+.main-nav__item a:hover {
 	background-color: #4eabda;
 	color: #fff;
 }
